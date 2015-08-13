@@ -26,7 +26,7 @@ Edgar Anderson's [data](https://en.wikipedia.org/wiki/Iris_flower_data_set) for 
 
 ``` javascript
 console.log( data.len );
-// returns [...]
+// returns [ 1.4, 1.4, 1.3, ... ]
 ```
 
 #### data.width
@@ -35,7 +35,7 @@ Edgar Anderson's [data](https://en.wikipedia.org/wiki/Iris_flower_data_set) for 
 
 ``` javascript
 console.log( data.width );
-// returns [...]
+// returns [ 0.2, 0.2, 0.2, ... ]
 ```
 
 
